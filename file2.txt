@@ -1,1 +1,2 @@
 This is file2.txt
+New content added into feature branch file2.txt
